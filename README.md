@@ -3,7 +3,7 @@
 **Status:** 🚧 In Development - Day 1 
 
 ## Project Goal
-Build a 4-DOF robotic arm capable of autonomous object detection and pick & place operations using computer vision. 
+Build a 5-DOF robotic arm capable of autonomous object detection and pick & place operations using computer vision. 
 
 ## Tech Stack
 - **Hardware:** ESP32, MG996R servos, USB webcam.
