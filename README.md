@@ -11,7 +11,7 @@ Build a 4-DOF robotic arm capable of autonomous object detection and pick & plac
 - **Control:** Inverse kinematics, PID control
 - **Integration:** Serial communication, real-time processing
 
-* To follow my "building in public" journey: www.linkedin.com/in/rodrigoluciomx *
+To follow my "building in public" journey: www.linkedin.com/in/rodrigoluciomx
 
 
 
